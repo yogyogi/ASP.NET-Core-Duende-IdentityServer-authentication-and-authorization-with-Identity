@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OieFSFmj4ixEoPBBJ9MUYXaGsSI5LePZf+Ic6DIB68Dxy762CF3Xjg9ReETLBGHsCHa9I068c208Cr5xT4IyWA==",
+  "success": true,
+  "projectFilePath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\duende identityserver aspnet core\\DuendeISClient\\DuendeISClient\\DuendeISClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\8.0.2\\microsoft.aspnetcore.authentication.openidconnect.8.0.2.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Avita\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
